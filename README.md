@@ -1,4 +1,4 @@
-# Image-Augmentation-Pipeline
+# Image-Augmentated-Reality
 An image augmentation pipeline with customized data for AR education
 
 This repository contains:
